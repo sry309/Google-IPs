@@ -2,8 +2,8 @@
 
 =====>> [宽屏查看](./README.md) <<=====
 
- +短地址①：<http://tinyurl.com/Google-IPs>  
- +短地址②：<http://dwz.cn/Google-IPs>
+ +短地址①：<http://github.com/uncia>  
+ +短地址②：<http://github.com/uncia>
 
 <table>
  <tbody>
@@ -5995,4 +5995,4 @@
 </table>
 
 
-IP 地址来源：<a href="http://www.kookle.co.nr" target="_blank">http://www.kookle.co.nr</a>
+IP 地址来源：<a href="http://github.com/uncia" target="_blank">http://github.com/uncia</a>
