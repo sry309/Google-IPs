@@ -2,8 +2,7 @@
 
 =====>> [宽屏查看](./README.md) <<=====
 
- +短地址①：<http://github.com/uncia>  
- +短地址②：<http://github.com/uncia>
+ +短地址：<http://github.com/uncia/Google-IPs/>
 
 <table>
  <tbody>
@@ -5995,4 +5994,4 @@
 </table>
 
 
-IP 地址来源：<a href="http://github.com/uncia" target="_blank">http://github.com/uncia</a>
+IP 地址来源：<a href="http://github.com/uncia/Google-IPs/" target="_blank">http://github.com/uncia</a>
