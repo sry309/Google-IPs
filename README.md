@@ -5994,4 +5994,4 @@
 </table>
 
 
-IP 地址来源：<a href="http://github.com/uncia/Google-IPs/" target="_blank">http://github.com/uncia</a>
+IP 地址来源：<a href="http://github.com/uncia/Google-IPs/" target="_blank">github.com/uncia</a>
